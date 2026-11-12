@@ -1,0 +1,66 @@
+{
+  "name": "Wanderlust - Airbnb Analytics",
+  "dataColors": [
+    "#173F43",
+    "#397C78",
+    "#E58B70",
+    "#D2B48C",
+    "#6E9C95",
+    "#C96F59",
+    "#A9B9AE",
+    "#E8D8BE"
+  ],
+  "background": "#F8F5EF",
+  "foreground": "#303A43",
+  "tableAccent": "#397C78",
+  "good": "#397C78",
+  "neutral": "#D2B48C",
+  "bad": "#C96F59",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontFamily": "Aptos Display",
+            "fontSize": 12,
+            "color": {
+              "solid": {
+                "color": "#173F43"
+              }
+            },
+            "show": true
+          }
+        ],
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#F8F5EF"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
